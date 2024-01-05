@@ -1,2 +1,2 @@
 # test
-untung mencoba belajar git, btw
+untung mencoba belajar git dan yang lain nya
